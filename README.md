@@ -4,6 +4,6 @@
 创建bucket，向bucket里传输静态文件。
 
 ## 2. EC2 - Elastic Cloud Compute
-创建服务器
+创建服务器的实例instance
 
 ## 3. ELB, Cloud Watch， Auto Scaling - 弹性收缩三剑客
