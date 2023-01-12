@@ -7,3 +7,11 @@
 创建服务器的实例instance
 
 ## 3. ELB, Cloud Watch， Auto Scaling - 弹性收缩三剑客
+
+## 4. Kinesis托管服务 - 不用关心底层服务器
+
+## 5. ECS EC2 Container Service
+
+## 6. EKS EC2 Kubenetes Service
+
+image.png
