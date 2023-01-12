@@ -14,4 +14,4 @@
 
 ## 6. EKS EC2 Kubenetes Service
 
-image.png
+![](pasteimages/2023-01-12-22-04-45.png)
